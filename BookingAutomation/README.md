@@ -25,7 +25,7 @@ El archivo que contiene el diseño de los escenarios manuales se encuentra en la
 1. Clonar el proyecto con el comando:
 
 ```bash
-git clone https://github.com/SebastianV2/BookingTest.git
+git clone https://github.com/SebastianV2/BookingAutomation.git
 ```
 
 2. Abrir IntelliJ e importar el proyecto, recordar que es de tipo Gradle.
