@@ -32,7 +32,7 @@ git clone https://github.com/SebastianV2/BookingAutomation.git
 
 3. Desplazarse por el arbol del proyecto hasta la carpeta 'runners' siguiendo la ruta:
 ```bash
-BookingTest\src\test\java\com\devco\certification\booking\runners
+BookingAutomation\src\test\java\com\devco\certification\booking\runners
 ```
 
 4. Seleccionar el runner que se desea ejecutar y presionar: 
